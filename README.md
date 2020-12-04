@@ -1,4 +1,14 @@
-# covid19_tracker
+# Covid-19 Tracker India
+
+Covid 19 Tracker India is created using Flutter framework, also it includes the daily updated data of Covid19 patients in India
+
+
+## Apk URL - https://www.dropbox.com/s/k18qvpwdy8x0ssz/Covid19TrackerIndia.apk?dl=0
+
+## Covid 19 API - https://documenter.getpostman.com/view/10724784/SzYXXKmA?version=latest
+
+
+
 
 A new Flutter application.
 
